@@ -34,4 +34,4 @@ The parameters include:
 
 As a phd student, I am tired of using toolbox download in the Internet,  and I think I got nothing during the research. So I decide to rewrite each toolbox that I have used. I do know that this toolbox is simple, but it is a good start for me.
 
-In the next week, I will use my spare time to use fsl and Matlab to substitute. 
+In the next week, I will use my spare time to use fsl and Matlab to substitute PANDA in my work. 
